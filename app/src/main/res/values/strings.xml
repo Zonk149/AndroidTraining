@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">練習アプリ</string>
+    <string name="sub_title">サブ画面タイトル</string>
+    <string name="hint">名前を入力してください</string>
+    <string-array name="curryList">
+        <item>ドライカレー</item>
+        <item>カツカレー</item>
+    </string-array>
+    <string-array name="arrayList"></string-array>
+</resources>
